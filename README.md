@@ -23,5 +23,11 @@ PROBLEM STATEMENT:
               to easily obtain update-to-date information and thus make better
               decisions in their daily farming . 
 
+DEMO LINK:
+
+     https://youtu.be/a4SYq9CduYA?si=ndmf2x-qCk8NpOYe
+
+        
+
          
 
